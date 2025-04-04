@@ -29,10 +29,3 @@ This intent allows users to book and schedule a doctor’s appointment.
 - _"You want to book an appointment on `{Date}` at `{Time}`. Should I proceed?"_
 
 ---
-
-## 🛠️ Installation & Setup
-
-1. Clone the repository:
-   ```sh
-   git clone
-   ```
