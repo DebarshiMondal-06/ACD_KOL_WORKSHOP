@@ -1,20 +1,11 @@
 #ACD_KOL_EVENT_ARTIFACTS
 
-## 📅 [YOUR_NAME]\_Doctor_Appointment_Bot
+## BotName - [YOUR_NAME]\_Doctor_Appointment_Bot
 
 ## 📝 Description
 
-The **Debarshi Doctor Appointment Bot** is designed to assist customers in booking and scheduling doctor appointments effortlessly. Users can select a preferred **date** and **time**, and the bot will confirm their booking.
+The **[YOUR_NAME] Doctor Appointment Bot** is designed to assist customers in booking and scheduling doctor appointments effortlessly. Users can select a preferred **date** and **time**, and the bot will confirm their booking.
 
----
-
-## 🚀 Features
-
-- 📅 **Appointment Booking** – Users can schedule doctor visits by selecting a date and time.
-- 🤖 **Interactive Responses** – The bot guides users through the booking process with friendly prompts.
-- ✅ **Confirmation Step** – Ensures users verify appointment details before finalizing the booking.
-
----
 
 ## 💡 Intent: `BookAppointment`
 
